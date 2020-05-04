@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+author: "jeromero"
+date: "4/5/2020"
+output: html_document
+---
+
+## Este es un archivo de reducción
